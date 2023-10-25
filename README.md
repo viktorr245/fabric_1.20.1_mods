@@ -32,7 +32,7 @@
 * **Creeper Overhaul** (Overhauls Minecraft's creepers, making them more challenging and rewarding to fight.)
 * **More Mob Variants** (Adds new variants of existing mobs to Minecraft.)
 * **Duckling** (Adds ducklings.)
-* **Friends&Foes (Fabric)** (Adds outvoted and forgotten mobs from the mob vote.)
+* **Friends&Foes** (Adds outvoted and forgotten mobs from the mob vote.)
 * **Companion** (Adds various mechanics to avoid losing your pets.)
 * **Wildlife** (Adds 74 different kinds of animals and insects to the world)
 * **Cave Dweller Fabric** (The Cave Dweller is a complex entity)
