@@ -29,6 +29,7 @@
 
 ## **Mobs and Entities**
 
+* **L_Ender 's Cataclysm** (Adds difficult dungeons, challenging boss-fights and powerful items.)
 * **Creeper Overhaul** (Overhauls Minecraft's creepers, making them more challenging and rewarding to fight.)
 * **More Mob Variants** (Adds new variants of existing mobs to Minecraft.)
 * **Duckling** (Adds ducklings.)
