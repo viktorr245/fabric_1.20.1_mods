@@ -11,7 +11,7 @@
 ## **Building and Decoration**
 
 * **Beautify: Refabricated** (Adds new decorative blocks and items to Minecraft, as well as new ways to customize existing blocks.)
-* **Handcrafted** (Adds new furiture for your home!)
+* **Handcrafted** (Adds new furniture for your home!)
 * **Chipped** (Adds new blocks.)
 * **Twigs** (Adds Minecraft building blocks.)
 
