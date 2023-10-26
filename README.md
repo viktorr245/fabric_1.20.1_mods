@@ -2,7 +2,7 @@
 
 * **Terralith** (Overhauls Minecraft's world generation, making it more realistic and diverse.)
 * **Nullscape** (Overhauls The End dimension.)
-* **Amplified Nether** (Overhauls the Nether dimension.)
+* **Incendium** (Overhauls The Nether dimension.)
 * **Ad Astra** (SPACE EXPLORATION!)
 * **YUNG's Better Dungeons, Better Ocean Monuments, Mineshafts, Strongholds, Desert Temples, Jungle Temples, Nether Fortresses, Better Witch Huts, Better End Island, Bridges, Extras** (Improves Minecraft's structures, making them larger, more complex, more challenging and more rewarding to explore.)
 * **Wabi-Sabi Structures** (Adds new Japanese-inspired structures to Minecraft.)
