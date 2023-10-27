@@ -59,7 +59,6 @@
 * **CTOV - Friends and Foes Compat** (Compatibility add-on for Friends and Foes mod and CTOV.)
 * **CTOV - Beautify Compat** (Compatibility add-on for beautify mod and CTOV.)
 * **CTOV - Chef's delight Compat** (Compatibility add-on for Chef's delight mod and CTOV.)
-* **Create Slice & Dice** (Enables a variety of features to create better compatibility between mostly Farmer's Delight and Create.)
 
 ## **Optimization Mods**
 * **Sodium**
