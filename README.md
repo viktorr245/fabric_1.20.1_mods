@@ -54,6 +54,7 @@
 * **Open Parties and Claims** (Adds the ability to claim chunks and make player parties, integrates with Xaero's Minimap and World Map)
 * **True Ending: Ender Dragon Overhaul** (Adds new attacks and elegant particle animations to the Ender Dragon fight.)
 * **MmmMmmMmmMmm** (Target Dummy that show damage dealt and can be equipped with armor)
+* **No Chat Reports**
 
 ## **Compatibility/Support**
 
@@ -63,3 +64,16 @@
 * **CTOV - Chef's delight Compat** (Compatibility add-on for Chef's delight mod and CTOV.)
 * **Create Support for Open Parties and Claims** (Adds Fabric Create mod support to Open Parties and Claims)
 * **Create Slice & Dice** (Enables a variety of features to create better compatibility between mostly Farmer's Delight and Create.)
+
+## **Optimization Mods**
+* **Sodium**
+* **Lithium**
+* **Concurrent Chunk Management Engine**
+* **Enhanced Block Entities **
+* **FerriteCore**
+* **ImmediatelyFast**
+* **Entity Culling**
+* **ModernFix**
+* **More Culling**
+* **ThreadTweak**
+* **Very Many Players**
