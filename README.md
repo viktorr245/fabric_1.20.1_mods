@@ -69,7 +69,7 @@
 * **Sodium**
 * **Lithium**
 * **Concurrent Chunk Management Engine**
-* **Enhanced Block Entities **
+* **Enhanced Block Entities**
 * **FerriteCore**
 * **ImmediatelyFast**
 * **Entity Culling**
