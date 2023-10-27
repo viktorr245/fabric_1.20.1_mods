@@ -4,7 +4,7 @@
 * **Nullscape** (Overhauls The End dimension.)
 * **Incendium** (Overhauls The Nether dimension.)
 * **Ad Astra** (SPACE EXPLORATION!)
-* **YUNG's Better Dungeons, Better Ocean Monuments, Mineshafts, Strongholds, Desert Temples, Jungle Temples, Nether Fortresses, Better Witch Huts, Better End Island, Bridges, Extras** (Improves Minecraft's structures, making them larger, more complex, more challenging and more rewarding to explore.)
+* **YUNG's Better Dungeons, Mineshafts, Strongholds, Desert Temples, Jungle Temples, Nether Fortresses, Better Witch Huts, Better End Island, Bridges, Extras** (Improves Minecraft's structures, making them larger, more complex, more challenging and more rewarding to explore.)
 * **Wabi-Sabi Structures** (Adds new Japanese-inspired structures to Minecraft.)
 * **ChoiceTheorem's Overhauled Village** (Enhances and creates new villages and pillager outposts.)
 
