@@ -20,8 +20,10 @@
 ## **Food and Farming**
 
 * **Farmer's Delight** (Adds new crops, food items, and cooking recipes to Minecraft.)
-* **Expanded Delight** (An addon mod for Farmer's Delight Fabric that adds many more crops and functionality to the base mod.)
+* **Expanded Delight** (An addon mod for Farmer's Delight Fabric that adds many more crops and functionality to the base mod.)]
+* **Delightful Creators** (An addon for Farmer's Respite and Create which adds new recipes using Create.)
 * **Farmer's Respite** (An addon mod for Farmer's Delight based around adding tea and brewing mechanics!)
+* **Respite Creators** (An addon for Farmer's Respite and Create which adds new recipes using Create.)
 * **Chef's Delight** (Add-on for the Farmer's Delight mod. Adds 2 new professions to villagers. Chef and Cook.)
 * **Let's Do: Vinery** (Adds vines and grapes to Minecraft, which can be used to make wine.)
 
@@ -60,6 +62,8 @@
 * **CTOV - Friends and Foes Compat** (Compatibility add-on for Friends and Foes mod and CTOV.)
 * **CTOV - Beautify Compat** (Compatibility add-on for beautify mod and CTOV.)
 * **CTOV - Chef's delight Compat** (Compatibility add-on for Chef's delight mod and CTOV.)
+* **Create Support for Open Parties and Claims** (Adds Fabric Create mod support to Open Parties and Claims)
+* **Create Slice & Dice** (Enables a variety of features to create better compatibility between mostly Farmer's Delight and Create.)
 
 ## **Optimization Mods**
 * **Sodium**
