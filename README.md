@@ -1,8 +1,9 @@
 ## **World Generation**
 
 * **Terralith** (Overhauls Minecraft's world generation, making it more realistic and diverse.)
-* **Nullscape** (Overhauls The End dimension.)
 * **Incendium** (Overhauls The Nether dimension.)
+* **Nullscape** (Overhauls The End dimension.)
+* **Higher Nether Max Build Height** (Extends the build height of the nether by 64 blocks. Designed for Incendium.)
 * **Ad Astra** (SPACE EXPLORATION!)
 * **YUNG's Better Dungeons, Mineshafts, Strongholds, Desert Temples, Jungle Temples, Nether Fortresses, Better Witch Huts, Better End Island, Bridges, Extras** (Improves Minecraft's structures, making them larger, more complex, more challenging and more rewarding to explore.)
 * **Wabi-Sabi Structures** (Adds new Japanese-inspired structures to Minecraft.)
