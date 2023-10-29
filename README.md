@@ -53,7 +53,7 @@
 * **Polymorph [C/S]** (No more recipe conflicts! Adds an option to choose the crafting result if more than one is available.)
 * **Open Parties and Claims [C/S]** (Adds the ability to claim chunks and make player parties, integrates with Xaero's Minimap and World Map.)
 * **MmmMmmMmmMmm [C/S]** (Target Dummy that show damage dealt and can be equipped with armor)
-* **No Chat Reports [C/S]**
+* **No Chat Reports [C/S]** (Makes chat unreportable (where possible).)
 * **Roughly Enough Items [C]** (View Items and Recipes.)
 * **Player Health Indicators [C]** (Displays a health bar above players.)
 * **InmisAddon [C]** (Adds a 3D model to the Inmis Mod.)
@@ -70,18 +70,20 @@
 * **Create Support for Open Parties and Claims [S]** (Adds Fabric Create mod support to Open Parties and Claims)
 
 ## **Optimization Mods**
-* **Lithium [C/S]**
-* **Concurrent Chunk Management Engine [C/S]**
-* **FerriteCore** [C/S]
-* **ModernFix [C/S]**
-* **ThreadTweak [C/S]**
-* **Very Many Players [C/S]**
-* **Memory Leak Fix [C/S]**
-* **Sodium [C]**
-* **More Culling [C]**
-* **ImmediatelyFast [C]**
-* **Enhanced Block Entities [C]**
-* **Entity Culling [C]**
-* **Krypton [S]**
-* **Spark [S]**
-* **TabTPS [S]**
+* **Lithium [C/S]** (A modern, general-purpose optimization mod for Minecraft which works to improve a number of systems (game physics, mob AI, block ticking, etc) with the goal of not changing any vanilla mechanics.)
+* **Concurrent Chunk Management Engine [C/S]** (Designed to improve the chunk performance of Minecraft.)
+* **FerriteCore[C/S]** (Reduces the memory usage in a few different ways.)
+* **ModernFix [C/S]** (All-in-one mod that improves performance, reduces memory usage, and fixes many bugs)
+* **ThreadTweak [C/S]** (Improve and tweak Minecraft thread scheduling.)
+* **Very Many Players [C/S]** (Designed to improve server performance at high playercounts.)
+* **Memory Leak Fix [C/S]** (Fixes random memory leaks for both the client and server)
+* **Starlight [C/S]** (Rewrites the light engine to fix lighting performance and lighting errors.)
+* **Sodium [C]** (A modern rendering engine which greatly improves performance.)
+* **More Culling [C]** (Changes how multiple types of culling are handled in order to improve performance.)
+* **ImmediatelyFast [C]** (Speed up immediate mode rendering in Minecraft.)
+* **Enhanced Block Entities [C]** (Reduce FPS lag with block entities, as well as customize them with resource packs.)
+* **Entity Culling [C]** (Utilizes your other CPU cores/threads to do really quick path-tracing from your camera to all block/-entities to determine rather they are visible or not. During the rendering, the not visible ones will be skipped the same way entities behind you are.)
+* **Krypton [S]** (Optimizes Minecraft networking stack.)
+* **ServerCore [S]** (Aims to optimize the minecraft server.)
+* **Spark [S]** (A performance profiler for Minecraft clients, servers and proxies.)
+* **TabTPS [S]** (Shows TPS, MSPT, and other information in the tab menu, boss bar, and action bar.)
