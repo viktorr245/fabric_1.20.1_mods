@@ -64,6 +64,7 @@ You can download the modpack [HERE](pornhub.com)
 * **No Chat Report** (Makes chat unreportable (where possible).)
 ### Client ONLY
 * **Roughly Enough Items** (View Items and Recipes.)
+* **Iris Shaders** (Shaders without Optifine!)
 * **Player Health Indicators** (Displays a health bar above players.)
 * **GrassKiss** (Ignore grass when using tools/weapons)
 * **InmisAddon** (Adds a 3D model to the Inmis Mod.)
