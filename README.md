@@ -4,8 +4,9 @@ I have given each mod a short description. I've also noted if the is only server
 You can download the modpack [HERE](pornhub.com)
 
 ## World Generation
-
+### Client and Server
 * **Ad Astra [C/S]** (SPACE EXPLORATION!)
+### Server ONLY
 * **Terralith [S]** (Overhauls Minecraft's world generation, making it more realistic and diverse.)
 * **Incendium [S]** (Overhauls The Nether dimension.)
 * **Nullscape** [S](Overhauls The End dimension.)
@@ -15,7 +16,7 @@ You can download the modpack [HERE](pornhub.com)
 * **ChoiceTheorem's Overhauled Village [S]** (Enhances and creates new villages and pillager outposts.)
 
 ## Building and Decoration
-
+### Client and Server
 * **Beautify: Refabricated [C/S]** (Adds new decorative blocks and items to Minecraft, as well as new ways to customize existing blocks.)
 * **Handcrafted [C/S]** (Adds new furniture for your home!)
 * **Chipped [C/S]** (Adds new block variants.)
@@ -23,7 +24,7 @@ You can download the modpack [HERE](pornhub.com)
 
 
 ## Food and Farming
-
+### Client and Server
 * **Farmer's Delight [C/S]** (Adds new crops, food items, and cooking recipes to Minecraft.)
 * **Expanded Delight [C/S]** (An addon mod for Farmer's Delight Fabric that adds many more crops and functionality to the base mod.)]
 * **Delightful Creators [C/S]** (An addon for Farmer's Respite and Create which adds new recipes using Create.)
@@ -35,17 +36,18 @@ You can download the modpack [HERE](pornhub.com)
 
 
 ## Mobs and Entities
-
+### Client and Server
 * **Creeper Overhaul [C/S]** (Overhauls Minecraft's creepers, making them more challenging and rewarding to fight.)
 * **More Mob Variants [C/S]** (Adds new variants of existing mobs to Minecraft.)
 * **Duckling [C/S]** (Adds ducklings.)
 * **Friends&Foes [C/S]** (Adds outvoted and forgotten mobs from the mob vote.)
-* **Companion [S]** (Adds various mechanics to avoid losing your pets.)
 * **Wildlife [C/S]** (Adds 74 different kinds of animals and insects to the world)
 * **Cave Dweller Fabric [C/S]** (The Cave Dweller is a complex entity)
+### Server ONLY
+* **Companion [S]** (Adds various mechanics to avoid losing your pets.)
 
 ## Gameplay
-
+### Client and Server
 * **Crawl [C/S]** (Speaks for itself.)
 * **Dehydration [C/S]** (Keep hydrated!)
 * **Aquamirae [C/S]** (Adds a new unique and giant ice maze within the deep frozen ocean biome. It also adds new items and mobs.)
@@ -59,11 +61,13 @@ You can download the modpack [HERE](pornhub.com)
 * **Open Parties and Claims [C/S]** (Adds the ability to claim chunks and make player parties, integrates with Xaero's Minimap and World Map.)
 * **MmmMmmMmmMmm [C/S]** (Target Dummy that show damage dealt and can be equipped with armor)
 * **No Chat Reports [C/S]** (Makes chat unreportable (where possible).)
+### Client ONLY
 * **Roughly Enough Items [C]** (View Items and Recipes.)
 * **Player Health Indicators [C]** (Displays a health bar above players.)
 * **InmisAddon [C]** (Adds a 3D model to the Inmis Mod.)
 * **Xaero's Minimap [C]** (Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.)
 * **Xaero's World Map [C]** (Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap.)
+### Server ONLY
 * **True Ending: Ender Dragon Overhaul [S]** (Adds new attacks and elegant particle animations to the Ender Dragon fight.)
 
 ## Compatibility/Support
