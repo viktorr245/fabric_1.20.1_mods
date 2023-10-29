@@ -45,21 +45,21 @@
 * **Dehydration [C/S]** (Keep hydrated!)
 * **Aquamirae [C/S]** (Adds a new unique and giant ice maze within the deep frozen ocean biome. It also adds new items and mobs.)
 * **Plenty Of Armors [C/S]** (Adds plenty of new vanilla-faithful armors sets with custom effects applied.)
-* **Roughly Enough Items [C]** (View Items and Recipes.)
 * **Trinkets [C/S]** (An accessory mod.)
 * **Additional Additions [C/S]** (Add additional uses for Copper, Amethyst and Glow Ink Sacs as well as other useful additional additions to the game.)
 * **MedievelWeapons [C/S]** (Adds old but gold weapons.)
 * **EnvironmentZ [C/S]** (Adds warmth and coldness.)
 * **Inmis** [C/S] (Adds a simple backpack.)
-* **InmisAddon [C]** (Adds a 3D model to the Inmis Mod.)
 * **Polymorph [C/S]** (No more recipe conflicts! Adds an option to choose the crafting result if more than one is available.)
-* **Open Parties and Claims [C/S]** (Adds the ability to claim chunks and make player parties, integrates with Xaero's Minimap and World Map)
-* **True Ending: Ender Dragon Overhaul [S]** (Adds new attacks and elegant particle animations to the Ender Dragon fight.)
+* **Open Parties and Claims [C/S]** (Adds the ability to claim chunks and make player parties, integrates with Xaero's Minimap and World Map.)
 * **MmmMmmMmmMmm [C/S]** (Target Dummy that show damage dealt and can be equipped with armor)
 * **No Chat Reports [C/S]**
+* **Roughly Enough Items [C]** (View Items and Recipes.)
 * **Player Health Indicators [C]** (Displays a health bar above players.)
+* **InmisAddon [C]** (Adds a 3D model to the Inmis Mod.)
 * **Xaero's Minimap [C]** (Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.)
 * **Xaero's World Map [C]** (Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap.)
+* **True Ending: Ender Dragon Overhaul [S]** (Adds new attacks and elegant particle animations to the Ender Dragon fight.)
 
 ## **Compatibility/Support**
 
@@ -70,16 +70,17 @@
 * **Create Support for Open Parties and Claims [S]** (Adds Fabric Create mod support to Open Parties and Claims)
 
 ## **Optimization Mods**
-* **Sodium [C]**
 * **Lithium [C/S]**
 * **Concurrent Chunk Management Engine [C/S]**
-* **Enhanced Block Entities [C]**
 * **FerriteCore** [C/S]
-* **ImmediatelyFast [C]**
-* **Entity Culling [C]**
 * **ModernFix [C/S]**
-* **More Culling [C]**
 * **ThreadTweak [C/S]**
 * **Very Many Players [C/S]**
 * **Memory Leak Fix [C/S]**
-* **Krypton [S]**
+* **Sodium [C]**
+* **More Culling [C]**
+* **ImmediatelyFast [C]**
+* **Enhanced Block Entities [C]**
+* **Entity Culling [C]**
+* **Krypton [S]
+* **Spark [S]**
