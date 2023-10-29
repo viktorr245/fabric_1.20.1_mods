@@ -82,6 +82,6 @@
 * **ImmediatelyFast [C]**
 * **Enhanced Block Entities [C]**
 * **Entity Culling [C]**
-* **Krypton [S]
+* **Krypton [S]**
 * **Spark [S]**
 * **TabTPS [S]**
