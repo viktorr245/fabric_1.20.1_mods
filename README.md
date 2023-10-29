@@ -61,7 +61,7 @@ You can download the modpack [HERE](pornhub.com)
 * **Polymorph** (No more recipe conflicts! Adds an option to choose the crafting result if more than one is available.)
 * **Open Parties and Claims** (Adds the ability to claim chunks and make player parties, integrates with Xaero's Minimap and World Map.)
 * **MmmMmmMmmMmm** (Target Dummy that show damage dealt and can be equipped with armor)
-* **No Chat Reports ** (Makes chat unreportable (where possible).)
+* **No Chat Report** (Makes chat unreportable (where possible).)
 ### Client ONLY
 * **Roughly Enough Items** (View Items and Recipes.)
 * **Player Health Indicators** (Displays a health bar above players.)
@@ -69,7 +69,7 @@ You can download the modpack [HERE](pornhub.com)
 * **Xaero's Minimap** (Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.)
 * **Xaero's World Map** (Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap.)
 ### Server ONLY
-* **True Ending: Ender Dragon Overhaul [S]** (Adds new attacks and elegant particle animations to the Ender Dragon fight.)
+* **True Ending: Ender Dragon Overhaul** (Adds new attacks and elegant particle animations to the Ender Dragon fight.)
 
 # Compatibility/Support 🫶
 
@@ -77,7 +77,7 @@ You can download the modpack [HERE](pornhub.com)
 * **CTOV - Friends and Foes Compat** (Compatibility add-on for Friends and Foes mod and CTOV.)
 * **CTOV - Beautify Compat** (Compatibility add-on for beautify mod and CTOV.)
 * **CTOV - Chef's delight Compat** (Compatibility add-on for Chef's delight mod and CTOV.)
-* **Create Support for Open Parties and Claims [S]** (Adds Fabric Create mod support to Open Parties and Claims)
+* **Create Support for Open Parties and Claims** (Adds Fabric Create mod support to Open Parties and Claims)
 
 # Optimization Mods ✈️
 ### Client and Server
