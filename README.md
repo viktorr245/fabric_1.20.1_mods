@@ -1,5 +1,7 @@
 # These are all the mods for our minecraft server
-
+Hi! 
+I have given each mod a short description. I've also noted if the is only server sided, client sided, or both!
+You can download the modpack (HERE)[pornhub.com]
 
 ## **World Generation**
 
