@@ -15,7 +15,7 @@ You can download the modpack [HERE](pornhub.com)
 * **Wabi-Sabi Structures** (Adds new Japanese-inspired structures to Minecraft.)
 * **ChoiceTheorem's Overhauled Village** (Enhances and creates new villages and pillager outposts.)
 
-## Building and Decoration 🎨
+# Building and Decoration 🎨
 ### Client and Server
 * **Beautify: Refabricated** (Adds new decorative blocks and items to Minecraft, as well as new ways to customize existing blocks.)
 * **Handcrafted** (Adds new furniture for your home!)
@@ -23,7 +23,7 @@ You can download the modpack [HERE](pornhub.com)
 * **Twigs** (Adds new building blocks.)
 
 
-## Food and Farming 🚜
+# Food and Farming 🚜
 ### Client and Server
 * **Farmer's Delight** (Adds new crops, food items, and cooking recipes to Minecraft.)
 * **Expanded Delight** (An addon mod for Farmer's Delight Fabric that adds many more crops and functionality to the base mod.)]
@@ -35,7 +35,7 @@ You can download the modpack [HERE](pornhub.com)
 * **Let's Do: Vinery** (Adds vines and grapes to Minecraft, which can be used to make wine.)
 
 
-## Mobs and Entities 🦒
+# Mobs and Entities 🦒
 ### Client and Server
 * **Naturalist** (Adds new immersive wildlife with realistic behavior!)
 * **Wildlife** (Adds 74 different kinds of animals and insects to the world)
@@ -47,7 +47,7 @@ You can download the modpack [HERE](pornhub.com)
 ### Server ONLY
 * **Companion** (Adds various mechanics to avoid losing your pets.)
 
-## Gameplay 🎮
+# Gameplay 🎮
 ### Client and Server
 * **Crawl** (Speaks for itself.)
 * **Dehydration** (Keep hydrated!)
@@ -71,7 +71,7 @@ You can download the modpack [HERE](pornhub.com)
 ### Server ONLY
 * **True Ending: Ender Dragon Overhaul [S]** (Adds new attacks and elegant particle animations to the Ender Dragon fight.)
 
-## Compatibility/Support 🫶
+# Compatibility/Support 🫶
 
 * **CTOV - Farmer Delight Compat** (Compatibility add-on for Farmer's delight mod and CTOV.)
 * **CTOV - Friends and Foes Compat** (Compatibility add-on for Friends and Foes mod and CTOV.)
@@ -79,7 +79,7 @@ You can download the modpack [HERE](pornhub.com)
 * **CTOV - Chef's delight Compat** (Compatibility add-on for Chef's delight mod and CTOV.)
 * **Create Support for Open Parties and Claims [S]** (Adds Fabric Create mod support to Open Parties and Claims)
 
-## Optimization Mods ✈️
+# Optimization Mods ✈️
 ### Client and Server
 * **Lithium** (A modern, general-purpose optimization mod for Minecraft which works to improve a number of systems (game physics, mob AI, block ticking, etc) with the goal of not changing any vanilla mechanics.)
 * **Concurrent Chunk Management Engine** (Designed to improve the chunk performance of Minecraft.)
