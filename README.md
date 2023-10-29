@@ -15,7 +15,7 @@ You can download the modpack [HERE](pornhub.com)
 * **Wabi-Sabi Structures [S]** (Adds new Japanese-inspired structures to Minecraft.)
 * **ChoiceTheorem's Overhauled Village [S]** (Enhances and creates new villages and pillager outposts.)
 
-## Building and Decoration
+## Building and Decoration 🎨
 ### Client and Server
 * **Beautify: Refabricated [C/S]** (Adds new decorative blocks and items to Minecraft, as well as new ways to customize existing blocks.)
 * **Handcrafted [C/S]** (Adds new furniture for your home!)
@@ -23,7 +23,7 @@ You can download the modpack [HERE](pornhub.com)
 * **Twigs [C/S]** (Adds new building blocks.)
 
 
-## Food and Farming
+## Food and Farming 🚜
 ### Client and Server
 * **Farmer's Delight [C/S]** (Adds new crops, food items, and cooking recipes to Minecraft.)
 * **Expanded Delight [C/S]** (An addon mod for Farmer's Delight Fabric that adds many more crops and functionality to the base mod.)]
@@ -35,18 +35,19 @@ You can download the modpack [HERE](pornhub.com)
 * **Let's Do: Vinery [C/S]** (Adds vines and grapes to Minecraft, which can be used to make wine.)
 
 
-## Mobs and Entities
+## Mobs and Entities 🦒
 ### Client and Server
+* **Naturalist [C/S]** (Adds new immersive wildlife with realistic behavior!)
+* **Wildlife [C/S]** (Adds 74 different kinds of animals and insects to the world)
 * **Creeper Overhaul [C/S]** (Overhauls Minecraft's creepers, making them more challenging and rewarding to fight.)
 * **More Mob Variants [C/S]** (Adds new variants of existing mobs to Minecraft.)
 * **Duckling [C/S]** (Adds ducklings.)
 * **Friends&Foes [C/S]** (Adds outvoted and forgotten mobs from the mob vote.)
-* **Wildlife [C/S]** (Adds 74 different kinds of animals and insects to the world)
 * **Cave Dweller Fabric [C/S]** (The Cave Dweller is a complex entity)
 ### Server ONLY
 * **Companion [S]** (Adds various mechanics to avoid losing your pets.)
 
-## Gameplay
+## Gameplay 🎮
 ### Client and Server
 * **Crawl [C/S]** (Speaks for itself.)
 * **Dehydration [C/S]** (Keep hydrated!)
@@ -70,7 +71,7 @@ You can download the modpack [HERE](pornhub.com)
 ### Server ONLY
 * **True Ending: Ender Dragon Overhaul [S]** (Adds new attacks and elegant particle animations to the Ender Dragon fight.)
 
-## Compatibility/Support
+## Compatibility/Support 🫶
 
 * **CTOV - Farmer Delight Compat [S]** (Compatibility add-on for Farmer's delight mod and CTOV.)
 * **CTOV - Friends and Foes Compat [S]** (Compatibility add-on for Friends and Foes mod and CTOV.)
@@ -78,7 +79,7 @@ You can download the modpack [HERE](pornhub.com)
 * **CTOV - Chef's delight Compat [S]** (Compatibility add-on for Chef's delight mod and CTOV.)
 * **Create Support for Open Parties and Claims [S]** (Adds Fabric Create mod support to Open Parties and Claims)
 
-## Optimization Mods
+## Optimization Mods ✈️
 ### Client and Server
 * **Lithium [C/S]** (A modern, general-purpose optimization mod for Minecraft which works to improve a number of systems (game physics, mob AI, block ticking, etc) with the goal of not changing any vanilla mechanics.)
 * **Concurrent Chunk Management Engine [C/S]** (Designed to improve the chunk performance of Minecraft.)
