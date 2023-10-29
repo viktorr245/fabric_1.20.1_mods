@@ -24,7 +24,7 @@
 * **Delightful Creators [C/S]** (An addon for Farmer's Respite and Create which adds new recipes using Create.)
 * **Farmer's Respite [C/S]** (An addon mod for Farmer's Delight based around adding tea and brewing mechanics!)
 * **Respite Creators [C/S]** (An addon for Farmer's Respite and Create which adds new recipes using Create.)
-* **Create Slice & Dice ** (Enables a variety of features to create better compatibility between mostly Farmer's Delight and Create.)
+* **Create Slice & Dice [C/S]** (Enables a variety of features to create better compatibility between mostly Farmer's Delight and Create.)
 * **Chef's Delight [C/S]** (Add-on for the Farmer's Delight mod. Adds 2 new professions to villagers. Chef and Cook.)
 * **Let's Do: Vinery [C/S]** (Adds vines and grapes to Minecraft, which can be used to make wine.)
 
@@ -84,3 +84,4 @@
 * **Entity Culling [C]**
 * **Krypton [S]
 * **Spark [S]**
+* **TabTPS [S]**
