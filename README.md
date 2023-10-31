@@ -50,6 +50,7 @@ You can download the modpack [HERE](pornhub.com)
 
 # Gameplay 🎮
 ### Client and Server
+* **Create Fabric Sodium Fix** (A fork of Create Fabric that supports Sodium 0.5+)
 * **Crawl** (Speaks for itself.)
 * **Dehydration** (Keep hydrated!)
 * **Aquamirae** (Adds a new unique and giant ice maze within the deep frozen ocean biome. It also adds new items and mobs.)
@@ -80,11 +81,11 @@ You can download the modpack [HERE](pornhub.com)
 * **CTOV - Friends and Foes Compat** (Compatibility add-on for Friends and Foes mod and CTOV.)
 * **CTOV - Beautify Compat** (Compatibility add-on for beautify mod and CTOV.)
 * **CTOV - Chef's delight Compat** (Compatibility add-on for Chef's delight mod and CTOV.)
-* **Create Support for Open Parties and Claims** (Adds Fabric Create mod support to Open Parties and Claims)
+* **Create Support for Open Parties and Claims** (Adds Fabric Create mod support to Open Parties and Claims.)
 
 # Optimization Mods ✈️
 ### Client and Server
-* **Lithium** (A modern, general-purpose optimization mod for Minecraft which works to improve a number of systems (game physics, mob AI, block ticking, etc) with the goal of not changing any vanilla mechanics.)
+* **Lithium** (A modern, general-purpose optimization mod for Minec  raft which works to improve a number of systems (game physics, mob AI, block ticking, etc) with the goal of not changing any vanilla mechanics.)
 * **Concurrent Chunk Management Engine** (Designed to improve the chunk performance of Minecraft.)
 * **FerriteCore** (Reduces the memory usage in a few different ways.)
 * **ModernFix** (All-in-one mod that improves performance, reduces memory usage, and fixes many bugs)
@@ -94,6 +95,7 @@ You can download the modpack [HERE](pornhub.com)
 * **Starlight** (Rewrites the light engine to fix lighting performance and lighting errors.)
 ### Client ONLY
 * **Sodium** (A modern rendering engine which greatly improves performance.)
+* **Nvidium** (Fast nvidia only rendering engine for sodium.)
 * **More Culling** (Changes how multiple types of culling are handled in order to improve performance.)
 * **ImmediatelyFast** (Speed up immediate mode rendering in Minecraft.)
 * **Enhanced Block Entities** (Reduce FPS lag with block entities, as well as customize them with resource packs.)
