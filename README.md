@@ -96,7 +96,6 @@ You can download the modpack [HERE](pornhub.com)
 ### Client ONLY
 * **Sodium** (A modern rendering engine which greatly improves performance.)
 * **Nvidium** (Fast nvidia only rendering engine for sodium.)
-* **FastQuit** (Lets you return to the Title Screen early while your world is still saving in the background!)
 * **More Culling** (Changes how multiple types of culling are handled in order to improve performance.)
 * **ImmediatelyFast** (Speed up immediate mode rendering in Minecraft.)
 * **Enhanced Block Entities** (Reduce FPS lag with block entities, as well as customize them with resource packs.)
