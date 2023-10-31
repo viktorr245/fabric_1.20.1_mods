@@ -74,6 +74,7 @@ You can download the modpack [HERE](pornhub.com)
 * **Xaero's World Map** (Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap.)
 ### Server ONLY
 * **True Ending: Ender Dragon Overhaul** (Adds new attacks and elegant particle animations to the Ender Dragon fight.)
+* **AntiXray** (I guess I'll have to play legit.)
 
 # Compatibility/Support 🫶
 ### Server ONLY
