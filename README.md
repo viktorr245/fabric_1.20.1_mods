@@ -8,7 +8,6 @@ You can download the modpack [HERE](pornhub.com)
 * **Ad Astra** (SPACE EXPLORATION!)
 ### Server ONLY
 * **Terralith** (Overhauls Minecraft's world generation, making it more realistic and diverse.)
-* **Tectonic** (Using the powerful worldgen tools from Caves and Cliffs, Tectonic completely rocks world generation with mountain ranges, underground rivers and more!)
 * **Incendium** (Overhauls The Nether dimension.)
 * **Nullscape** (Overhauls The End dimension.)
 * **Higher Nether Max Build Height** (Extends the build height of the nether by 64 blocks. Designed for Incendium.)
