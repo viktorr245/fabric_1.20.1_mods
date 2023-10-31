@@ -76,7 +76,7 @@ You can download the modpack [HERE](pornhub.com)
 * **True Ending: Ender Dragon Overhaul** (Adds new attacks and elegant particle animations to the Ender Dragon fight.)
 
 # Compatibility/Support 🫶
-
+### Server ONLY
 * **CTOV - Farmer Delight Compat** (Compatibility add-on for Farmer's delight mod and CTOV.)
 * **CTOV - Friends and Foes Compat** (Compatibility add-on for Friends and Foes mod and CTOV.)
 * **CTOV - Beautify Compat** (Compatibility add-on for beautify mod and CTOV.)
